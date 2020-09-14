@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="issGPU">
+  <component name="PublishConfigData" autoUpload="Always" serverName="lzf">
     <serverData>
-      <paths name="issGPU">
+      <paths name="lzf">
         <serverdata>
           <mappings>
             <mapping deploy="/tmp/pycharm_project_619" local="$PROJECT_DIR$" />
